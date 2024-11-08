@@ -1,0 +1,17 @@
+Prediction,SVM Model with Default Hyper parameters,,,SVM Model with Tuned Hyper parameters (C = 0.01),,
+,Number of Support Vectors for each class,Accuracy,,Number of Support Vectors for each class,Accuracy,
+,,Training,Testing,,Training,Testing
+Predicting the Dwelling Ownership usingSVM Linear Kernel,[472 472],85.69%,86.22%,[496 493],85.73%,86.56%
+,,,,,,
+,,,,,,
+,,,,,,
+Prediction,SVM Model with Default Hyper parameters,,,"SVM Model with Tuned Hyperparameters (C = 1, gamma = 0.1)",,
+,Number of Support Vectors for each class,Accuracy,,Number of Support Vectors for each class,Accuracy,
+,,Training,Testing,,Training,Testing
+Predicting the Dwelling Ownership using SVM Radial Kernel,[552 549],84.27%,83.20%, [711 457],88.34%,86.22%
+,,,,,,
+,,,,,,
+Prediction,SVM Model with Default Hyper parameters,,,"SVM Model with Tuned Hyperparameters (C = 10,  degree= 2)",,
+,Number of Support Vectors for each class,Accuracy,,Number of Support Vectors for each class,Accuracy,
+,,Training,Testing,,Training,Testing
+Predicting the Dwelling Ownership using SVM Polynomial Kernel,[588 586],82.03%,80.29%,[531 530],85.91%,86.78%
